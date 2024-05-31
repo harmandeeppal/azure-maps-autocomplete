@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', function () {
-    const subscriptionKey = '8WUyBQMtX9EkzEtEMkFK4CCoPh5yo99V79Hj71WNnYVzRuq4WCQHJQQJ99AEACYeBjFX4WR2AAAgAZMP2CC1'; // Replace with your actual Azure Maps API key
+    const subscriptionKey = 'Your_Azure_Maps_API_Key'; // Replace with your actual Azure Maps API key
     const addressInput = document.getElementById('addressInput');
     const suggestionsDiv = document.getElementById('suggestions');
     const errorMessage = document.getElementById('errorMessage');
