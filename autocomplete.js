@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', function () {
-    const subscriptionKey = 'Your_Azure_Maps_API_Key'; // Replace with your actual Azure Maps API key
+    const subscriptionKey = 'AZURE_MAPS_API_KEY'; // Replace with your actual Azure Maps API key
     const addressInput = document.getElementById('addressInput');
     const suggestionsDiv = document.getElementById('suggestions');
     const errorMessage = document.getElementById('errorMessage');
